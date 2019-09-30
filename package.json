@@ -1,0 +1,9 @@
+{
+  "name": "docker-host-manager",
+  "version": "1.0.0",
+  "description": "Management panel for Docker based Wordpress Hosting",
+  "main": "index.js",
+  "repository": "https://github.com/sebtoombs/docker-host-manager",
+  "author": "sebtoombs",
+  "license": "MIT"
+}

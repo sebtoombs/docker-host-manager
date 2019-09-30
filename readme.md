@@ -1,0 +1,1 @@
+Management Panel for (modern) Docker based Wordpress Hosting
